@@ -18,6 +18,19 @@ Per condurre questa analisi, ho attinguto principalmente dai dati forniti da Eur
 
 L'obiettivo di questo progetto è offrire un'analisi completa delle tendenze ICT in Europa. Attraverso l'elaborazione dei dati, ho cercato di rispondere alle domande cruciali sull'occupazione nell'ICT e sulla sua relazione con l'adozione di Internet. La dashboard interattiva creata con Tableau offre agli utenti la possibilità di esplorare i dati in modo intuitivo e di rispondere alle domande che possono sorgere.
 
+Ho combinato questi dataset in modo da poter esaminare le relazioni tra l'occupazione generale, l'occupazione ICT e l'adozione di Internet in Europa.
+
+### Pulizia dei Dati
+
+I dati possono essere caotici, e una pulizia accurata è essenziale per garantire la qualità dell'analisi. Ho rimosso dati duplicati, affrontato valori mancanti e standardizzato i dati per garantire coerenza.
+
+### Repository "Data Management"
+
+Nella repository, ho creato una sezione denominata "Data Management" dove è possibile trovare il codice sorgente Python utilizzato per l'analisi e la preparazione dei dati. Gli utenti possono esplorare il codice e vedere il processo di manipolazione dei dati.
+
+Se sei interessato a comprendere meglio come ho gestito i dati e preparato il terreno per la dashboard, vi invito a esplorare questa sezione.
+
+
 ## La Dashboard
 
 Per esplorare i dati in dettaglio, vi invito a visitare la [**dashboard interattiva**](https://public.tableau.com/app/profile/andrea.pacelli/viz/EVOLUZIONEICTINEUROPADIMENSIONFIXED/Dashboard1) creata appositamente per questo progetto. La dashboard consente di selezionare un anno specifico e una nazione per esaminare le tendenze e i dettagli in modo interattivo. È uno strumento che può essere utilizzato per scoprire informazioni preziose e prendere decisioni basate sui dati.
