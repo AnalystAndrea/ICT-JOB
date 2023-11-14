@@ -6,7 +6,7 @@ Benvenuti nel mio progetto di analisi sull'evoluzione del settore dell'Informati
 
 ## La Fonte dei Dati
 
-Per condurre questa analisi, ho attinguto principalmente dai dati forniti da Eurostat. Il mio approccio è stato quello di raccogliere e aggregare tre dataset chiave:
+Per condurre questa analisi, ho estrapolato dei dati forniti da Eurostat. Il mio approccio è stato quello di raccogliere e aggregare tre dataset chiave:
 
 1. **Occupazione Generale in Europa (2011-oggi)**: Questo dataset offre una panoramica dell'occupazione generale in Europa nel corso degli anni, fornendo dati preziosi per comprendere i cambiamenti nella forza lavoro.
 
