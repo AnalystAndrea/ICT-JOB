@@ -45,7 +45,7 @@ Caratteristiche Principali della Dashboard:
 
 Mappa della Densità di Banda Larga: Una mappa interattiva dell'Europa che utilizza una scala di colori per rappresentare la densità di connettività Internet a banda larga nei diversi paesi. Questa visualizzazione offre una panoramica immediata della situazione della connettività nell'intera regione.
 
-Grafico a Linea delle Variazioni Anuali: Un grafico a linea dinamico che traccia le fluttuazioni annuali nella percentuale di connettività Internet. Questa visualizzazione permette di esplorare come la disponibilità di Internet a banda larga sia cambiata nel tempo in Europa, identificando i picchi e le fasi di declino.
+Grafico a Linea delle Variazioni annuali: Un grafico a linea dinamico che traccia le fluttuazioni annuali nella percentuale di connettività Internet. Questa visualizzazione permette di esplorare come la disponibilità di Internet a banda larga sia cambiata nel tempo in Europa, identificando i picchi e le fasi di declino.
 
 Distribuzione di Lavoratori ICT per Genere: Due grafici a ciambella distinti che rivelano la distribuzione di lavoratori ICT tra maschi e femmine, sia nell'occupazione totale che specificamente nel settore ICT. Queste visualizzazioni offrono una panoramica sull'equità di genere in ambito tecnologico.
 
